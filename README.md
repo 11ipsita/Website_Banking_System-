@@ -6,6 +6,8 @@ TSF BANK
 Technologies Used:-
 
 Front-end: HTML, CSS, Bootstrap, JavaScript
+
 Back-end: PHP
+
 Database: MySQL
 
