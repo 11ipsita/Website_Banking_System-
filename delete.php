@@ -24,7 +24,8 @@ if($query){
     <?php
 }
 
-header('location:transferhistory.php');
+//header('location:transferhistory.php');
+echo("<script>location.href = 'transferhistory.php';</script>");
 
 
 
